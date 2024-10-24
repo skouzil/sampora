@@ -1,4 +1,4 @@
-import { isMobileDevice } from "js/functions.js";
+import { isMobileDevice } from "./js/functions.js";
 
 window.onload = function() {
 
