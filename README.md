@@ -1,41 +1,20 @@
 ![Logo of the project](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
 
-# Name of the project
-> Additional information or tagline
+# Prosa
 
-A brief description of your project, what it is used for and how does life get
-awesome when someone starts to use it.
+Prosa is a video game about corsican and provencal culture created by MMI students.
 
 ## Installing / Getting started
 
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
+You only need a phone to play.
 
-```shell
-packagemanager install awesome-project
-awesome-project start
-awesome-project "Do something!"  # prints "Nah."
-```
+Go to this link: 'gameurl.com'
 
-Here you should say what actually happens when you execute the code above.
-
-### Initial Configuration
-
-Some projects require initial configuration (e.g. access tokens or keys, `npm i`).
-This is the section where you would document those requirements.
+Enjoy the game.
 
 ## Developing
 
-Here's a brief intro about what a developer must do in order to start developing
-the project further:
-
-```shell
-git clone https://github.com/your/awesome-project.git
-cd awesome-project/
-packagemanager install
-```
-
-And state what happens step-by-step.
+This game is a single page that refreshes its content by calling JavaScript modules based on the content we want to display.
 
 ### Building
 
